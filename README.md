@@ -14,6 +14,9 @@ titanic-streamlit-app/
 ├── requirements.txt # Required Python packages
 └── README.md # Project overview and setup guide
 ```
+## 👉 Live Demo:
+🌐 https://titanicsurvivalpredictionapp.streamlit.app/
+---
 ## 📸 Preview
 ![App Screenshot](https://github.com/Suryareddy180/TitanicSurvivalPrediction/blob/main/preview.png)
 
